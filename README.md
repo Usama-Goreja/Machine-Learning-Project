@@ -12,8 +12,6 @@
 ### [Another Project]
 - [Brief description]
 - [Technologies used]
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Connect With Me
 [![LinkedIn][(https://www.linkedin.com/in/usamaiqbal2000/)]
